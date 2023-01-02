@@ -1,0 +1,13 @@
+
+.font-todo {
+  background: linear-gradient(98.28deg, #EB5757 4.09%, #9c4fe3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-emphasis-color: transparent;
+}
+
+.bg-landing {
+  background: linear-gradient(85.13deg, rgba(235, 87, 87, 0.6) 3.92%, rgba(151, 71, 255, 0.6) 98.45%);
+  filter: blur(118.419px);
+}
